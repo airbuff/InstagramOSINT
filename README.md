@@ -28,7 +28,7 @@ InstagramOSINT is a tool designed for gathering Open Source Intelligence (OSINT)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/InstagramOSINT.git
+git clone https://github.com/airbuff/InstagramOSINT.git
 cd InstagramOSINT
 ```
 
