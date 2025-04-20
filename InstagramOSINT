@@ -1,0 +1,10 @@
+InstagramOSINT/
+├── README.md
+├── requirements.txt
+├── instagram_scraper.py
+├── examples/
+│   ├── example_profile_data.json
+│   └── example_posts_data.json
+└── screenshots/
+    ├── tool_usage.png
+    └── sample_output.png
